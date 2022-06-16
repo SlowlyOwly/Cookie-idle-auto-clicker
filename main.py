@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-chrome_driver_path = "C:\Development\chromedriver.exe"
+chrome_driver_path = #place for path of chrome drivers for selenium
 service = Service(chrome_driver_path)
 
 driver = webdriver.Chrome(service=service)
