@@ -1,0 +1,1 @@
+# Cookie-idle-auto-clicker
